@@ -3,4 +3,4 @@ This project was part of the assignments for the course of Cloud Computing Servi
 
 The whole project code can be found [HERE](https://github.com/RSO-projekt-2020).
 
-![img][Hipstergram.png]
+![img](Hipstergram.png)
